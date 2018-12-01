@@ -1,0 +1,43 @@
+/* Global */
+html {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+body {
+  margin: 20px;
+  background-image: linear-gradient(to right, rgba(255, 65, 108, 0.8), rgba(255, 75, 43, 0.8)), url(/img/randy-fath-975846-unsplash.jpg);
+  background-size: 100% auto;
+  font-family: 'Lato', sans-serif !important;
+  color: #fff !important;
+}
+
+/* Header */
+.header {
+  padding-top: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+
+/* Form */
+/*
+.form {
+  background-image: linear-gradient(to right, rgba(255, 65, 108, 0.9), rgba(255, 75, 43, .9));
+  padding-top: 20px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0px 6px 22px -2px rgba(0,0,0,1);
+  -moz-box-shadow: 0px 6px 22px -2px rgba(0,0,0,1);
+  box-shadow: 0px 6px 20px -1px rgba(0,0,0,1);
+}
+*/
+.labels {
+  padding-left: 18em;
+}
+
+
+/* Footer */
+.footer {
+  padding-bottom: 20px;
+}
+/* Media Queries */
